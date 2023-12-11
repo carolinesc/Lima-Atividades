@@ -1,0 +1,25 @@
+/*link não visitado*/
+a:link { color: rgb(255, 33, 103);}
+
+/*link visitado*/
+a:visited { color: rgb(255, 33, 103);}
+
+/*mouse sobre o link*/
+a:hover { color: rgb(255, 33, 103);}
+
+/*link selecionado*/
+a:active { color: rgb(255, 33, 103);}
+
+/*primeiro <p> de um elemento*/
+p:first-child { color: rgb(255, 33, 103));}
+
+/*primeiro <i> de todos <p>*/
+p:first-child { color: rgb(255, 33, 103);}
+
+/*todos <i> do primeiro <p>*/
+p:first-child { color: rgb(255, 33, 103);}
+
+/*qualquer <input> com foco
+input:focus{ background-color: rgb(157, 228, 228);}
+
+

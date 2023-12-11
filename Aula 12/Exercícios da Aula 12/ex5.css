@@ -1,0 +1,10 @@
+body {
+    background-image: url("imagens/azul.jpg");
+    background-size: cover;
+}
+.texto{
+    color: aliceblue;
+    float: none;
+    margin-top: 300px;
+    margin-left: 675px;
+}

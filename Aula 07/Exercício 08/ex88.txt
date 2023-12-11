@@ -1,0 +1,86 @@
+<html>
+    <head>
+        <title> Exercício 8 </title>
+    </head>
+    <body>
+
+    </body>
+    <table border="5">
+    <caption>tabela</caption>
+    <tr> bgcolor= pink <--primeira linha da tabela-->
+    <th> Code </th>
+    <th> Descrição </th>
+    </tr>
+    
+    <tr><--segunda linha da tabela-->
+    <td> 001</td>
+    <td> &nbsp&nbsp </td>
+    <td> Frango </td>
+    <td> R$10,00 </td>
+    </tr>
+    
+    <tr><--terceira linha da tabela-->
+    <td> 002</td>
+    <td> &nbsp&nbsp </td>
+    <td> Frango </td>
+    <td> R$15,00 </td>
+    </tr>
+    
+    <tr><--quarta linha da tabela-->
+    <td> 001</td>
+    <td> &nbsp&nbsp </td>
+    <td> Pato </td>
+    <td> R$12,00 </td>
+    </tr>
+    
+    <tr><--quinta linha da tabela-->
+    <td> 003</td>
+    <td> &nbsp&nbsp </td>
+    <td> Pato </td>
+    <td> R$17,00 </td>
+    </tr>
+
+    <tr><--sexta linha da tabela-->
+    <td> 001 </td>
+    <td> &nbsp&nbsp </td>
+    <td> Peixe </td>
+    <td> R$6,00 </td>
+    </tr>
+
+    <tr><--sétima linha da tabela-->
+    <td> 002 </td>
+    <td> &nbsp&nbsp </td>
+    <td> Peixe </td>
+    <td> R$9,00 </td>
+    </tr>
+
+    <tr>
+        <td colspan="3" align="center"> Referências de código </td>
+    <td>
+        <table border="1">
+            <tr>
+                <th> COD </th>
+                <th> Função </th>
+            </tr>
+            <tr>
+                <td>001</td>
+                <td>Assado</td>
+            </tr>
+            <tr>
+                <td>002</td>
+                <td> Grelhado </td>
+            </tr>
+            <tr>
+                <td>001</td>
+                <td>Ao molho </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+</table>
+</body>
+        
+        
+
+
+</html>

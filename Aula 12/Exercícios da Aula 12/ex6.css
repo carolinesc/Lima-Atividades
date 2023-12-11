@@ -1,0 +1,7 @@
+button:hover {
+    background-color: hotpink;
+    color: white;
+}
+button{
+    border-radius: 15px;
+}

@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(250, 248, 173);
+}
+.cabeçalho{
+    color: white;
+    background-color: rgb(255, 213, 24);
+    border-bottom: 3px solid rgb(172, 154, 18);
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+}
+#img {
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 60px;
+    height: 60px;
+
+}
+#img1 {
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 25px;
+    height: 25px;
+
+}
+
+.imagem{
+    width: 30px;
+    height: 30px;
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+
+}
+.dropbtn{
+    background-color: rgb(255, 213, 24);
+    color: white;
+    padding: 16px;
+    font-size: px;
+    border: none;
+    position: relative;
+    text-align: right;
+
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    min-width: 150px;
+    box-shadow: 0px 0px 16px rgba(0,0,0);
+    z-index: 1;
+}
+#hamburguer{
+    height: 30px;
+    width: 30px;
+    
+}
+#divbusca {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+
+
+}
+#texto1{
+    margin-left: 70px;
+    margin-top: 90px;
+    width: 2000px;
+    height: 100px;
+    flex-direction: row;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cartao{
+    margin-left: 30px;
+    margin-top: -40px;
+    width: 500px;
+    height: 200px;
+}
+#texto2{
+    margin-left: 70px;
+    margin-top: 10px;
+    width: 2000px;
+    height: 100px;
+    flex-direction: row;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#caixacinza{
+    background-color: rgb(255, 251, 190);
+    height: 400px;
+    width: 500px;
+    margin-left: 800px;
+    margin-top: -400px;
+
+}
+#alinhar1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    padding-top: 20px;
+
+}
+#alinhar2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 370px;
+    margin-top: -330px;
+
+}
+#comprar{
+    background-color: rgb(255, 219, 40);
+    border-radius: 10px;
+    height: 40px;
+    width: 200px;
+    margin-left: 940px;
+    margin-top: 20px;
+
+}

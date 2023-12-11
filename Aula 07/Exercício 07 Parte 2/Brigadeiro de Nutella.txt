@@ -1,0 +1,42 @@
+<html>
+
+<head>
+<title> Brigadeiro </title>
+<style>
+
+ body {
+     background color: #ffcbdb;
+ }
+
+</style>
+</head>
+ 
+<body>
+<h1> <center> Brigadeiro </center>
+<h2> &nbsp Ingredientes </h2>
+<img src= "brigadeiro/brigadeiro.jpg"alt="image" height="200" widht=1000>
+
+<p> <pre>
+1 lata de leite condensado
+1 colher de sopa de manteiga
+2 colheres de sopa de achocolatado em pó
+1 colher de sopa de nutella
+granulado a gosto
+</p> </pre>
+
+<h2>Modo de Preparo </h2>
+
+<p> <pre>
+Coloque a nutella, o achocolatado em pó, a manteiga e o leite condensado na panela.
+
+Mexa bem até desgrudar do funda da panela.
+
+Deixe esfriar e depois enrole.
+
+Passe no granulado e está pronto.
+</p> </pre>
+
+
+</body>
+
+</html>

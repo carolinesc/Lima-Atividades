@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
+
+body{
+    height: 1110px;
+    font-family: 'Milonga', cursive;
+    background-image: linear-gradient(to bottom, rgb(207, 139, 255), 80%, cyan);
+}
+#ajd{
+
+    height: 100px;
+    
+}
+#ajuda{
+    background-color: rgb(229, 229, 229);
+    border-radius: 15px;
+}
+.cabeçalho{
+    color: white;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 3px solid rgb(255, 255, 255);
+    width: 101%;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    margin-top: -8px;
+    margin-left: -7px;
+}
+#textoprocurar{
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 950px;
+    height: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#imglupa{
+    margin-left: 57px;
+    margin-top: 5px;
+    width: 60px;
+    height: 60px;
+}
+#imgpc{
+    margin-left: 85px;
+    margin-top: 9px;
+    width: 60px;
+    height: 60px;
+}
+#imgbarrinhas{
+    margin-left: 110px;
+    margin-top: 9px;
+    width: 60px;
+    height: 60px;
+}
+
+#titulo{
+    font-size: 300%;
+    margin-left: 300px;
+    margin-top: -150px;
+}
+#subtitulo{
+    color: white;
+    font-size: 120%;
+    margin-left: 300px;
+    margin-top: -30px;
+}
+.botoes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: -40px;
+}
+#s, #c, #a, #l{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(91, 252, 255);
+    border-radius: 15px;
+    margin-top: 100px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+}
+#lupadois{
+    margin-left: -100px;
+    margin-top: 50px;
+    width: 60px;
+    height: 60px;
+}
+#linhahorizontal {
+    width: 1350px;
+    border: 1px solid rgb(0, 198, 175);
+    margin-top: 1px;
+    margin-left: 60px;
+}
+
+#i{
+    font-size: 20px;
+    color: white;
+    margin-left: 60px;
+
+}
+.promocoes{
+    background-color: rgba(255, 230, 241, 0.695);
+    width: 600px;
+    height: 300px;
+    margin-top: -30px;
+    margin-left: 60px;
+    border-radius: 15px;
+    z-index: 4;
+}
+#bolsa{
+    
+    margin-left: -100px;
+    margin-top: -260px;
+    width: 60px;
+    height: 60px;
+    z-index: 4;
+}
+.corpo2{
+    color: white;
+    margin-left: 100px;
+    margin-top: 15px;
+    width: 800px;
+    height: 60px;
+    z-index: 4;
+    
+}
+#imgbolsa{
+    margin-left: 120px;
+    margin-top: -100px;
+    width: 220px;
+    height: 300px;
+    z-index: 4;
+}
+#titulo1{
+    margin-left: 400px;
+    margin-top: -190px;
+    width: 100px;
+    height: 20px;
+    z-index: 4;
+}
+.novos{
+    border-left:10px;
+    background-color: rgba(255, 230, 241, 0.695);
+    width: 600px;
+    height: 300px;
+    margin-top: -156px;
+    margin-left: 800px;
+    border-radius: 15px;
+    z-index: 4;
+}
+#bolsacolorida{
+    margin-left: 870px;
+    margin-top: -50px;
+    width: 200px;
+    height: 200px;
+    z-index: 4;
+}
+#bolsa1{
+    
+    margin-left: -100px;
+    margin-top: -110px;
+    width: 60px;
+    height: 60px;
+    z-index: 4;
+}
+#titulo2{
+    margin-left: 1150px;
+    margin-top: -145px;
+    width: 150px;
+    height: 20px;
+    z-index: 4;
+
+}
+.maisvendidos{
+        border-left:10px;
+        background-color: rgba(255, 230, 241, 0.714);
+
+        width: 600px;
+        height: 150px;
+        margin-top: 50px;
+        margin-left: 60px;
+        border-radius: 15px;
+        z-index: 4;
+}
+#titulo3{
+    margin-left: 245px;
+    margin-top: -90px;
+    width: 300px;
+    height: 20px;
+   
+}
+.bolsas{
+    border-left:10px;
+    background-color: rgba(255, 230, 241, 0.8);
+
+    width: 600px;
+    height: 150px;
+    margin-top: -100px;
+    margin-left: 800px;
+    border-radius: 15px;
+}
+#titulo4{
+    margin-left: 870px;
+    margin-top: -95px;
+    width: 600px;
+    height: 20px;
+}
+.abaixo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: -40px;
+    font-family: 'Times New Roman', Times, serif;
+    z-index: 1;
+}
+#tel, #seg, #avalie, #fale{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 15px;
+    margin-top: 170px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    z-index: 1;
+}
+#linhahorizontal2 {
+    width: 1350px;
+    border: 1px solid rgb(91, 0, 170);
+    margin-top: -10px;
+    margin-left: 60px;
+    z-index: 1;
+
+}
+#tr {
+width: 0;
+height: 0px;
+border-left: 130px solid transparent; 
+border-right: 130px solid transparent;
+border-bottom: 230px solid rgba(194,29,114, 0.715); 
+position: relative;
+margin-top: -500px; 
+margin-left: 1000px;
+z-index: -1;
+} 
+
+#ci{
+border-radius: 50%;
+width: 250px;
+height: 250px;
+background-image: linear-gradient(to bottom, rgb(205,237,62), rgba(96,191,37,0.362));
+margin-left: 1200px;
+margin-top: -40px; 
+position: absolute;
+z-index: -1;
+}
+#cr {
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    background-image: linear-gradient(to bottom, rgb(186, 88, 219), 35%, rgb(103, 165, 246)); 
+    margin-left: 1cm; 
+    margin-top: -290px; 
+    position: absolute;
+    z-index: -1; 
+} 
+#qu {
+    width: 250px;
+    height: 250px;
+    background-image: linear-gradient (to bottom, blue, purple);
+     margin-top: -100px;
+     margin-left: 1200px;
+    z-index: -1;
+
+}
+#imglupa{
+    margin-left: 57px;
+    margin-top: 5px;
+    width: 60px;
+    height: 60px;
+}

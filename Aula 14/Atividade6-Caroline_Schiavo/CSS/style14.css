@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(224, 243, 250);
+}
+.cabeçalho{
+    color: white;
+    background-color: rgb(248, 107, 147);
+    border-bottom: 3px solid rgb(248, 107, 147);
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+}
+#img {
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 60px;
+    height: 60px;
+
+}
+#img1 {
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 25px;
+    height: 25px;
+
+}
+#img2 {
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 25;
+    height: 25px;
+
+}
+#viagens{
+    color: white;
+    background-color: rgb(255, 153, 182);
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 25;
+    height: 25px;
+    border: none;
+
+}
+#divbusca {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+
+
+}
+.dropbtn{
+    background-color: rgb(255, 153, 182);
+    color: white;
+    padding: 16px;
+    font-size: px;
+    border: none;
+
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    min-width: 150px;
+    box-shadow: 0px 0px 16px rgba(0,0,0);
+    z-index: 1;
+}
+.dropdown-content a{
+    color: rgb(210, 51, 80);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover{
+    background-color: rgb(248, 107, 147);
+}
+.dropdown:hover .dropbtn{
+    background-color: rgb(248, 107, 147);
+
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.imagem{
+    width: 30px;
+    height: 30px;
+}
+.imagem2{
+    display: flex;
+    align-items: center;
+}
+#hamburguer{
+    height: 30px;
+    width: 30px;
+    
+}
+.imagenscorpo{
+width: 200px;
+height: 200px;
+}
+
+.texto{
+    color: rgb(187, 66, 112);
+    font-family: 'Times New Roman', Times, serif;
+}
+.bagagens{
+    padding: 40px;
+    width: 200px;
+    height: 200px;
+    border: 6px solid rgb(210, 141, 161);
+    }
+
+    .passagens{
+        padding: 40px;
+        width: 200px;
+        height: 200px;
+        border: 6px solid rgb(195, 119, 140);
+        }
+        

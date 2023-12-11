@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+.titulo{
+    text-align: center;
+    color: palevioletred;
+    font-size: large;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+}
+.img1{
+    position: relative;
+    right:-10%;
+
+}
+.img2{
+    position: relative;
+    right: -20%;
+    bottom: 300px;
+}
+.img3{
+    position: relative;
+    right: -25%;
+    bottom: 300px;
+
+}
+.img4{
+    position: relative;
+    right: -20%;
+    bottom: 300px;
+
+}
+.video{
+    height: 300px;
+    width: 600px;
+    position: relative;
+    left: -25%;
+    bottom: 200px;
+    border:  solid white;
+}
+.assistir{
+ text-align: center;
+ color: lightcoral;
+ position: relative;
+ bottom: 800px;
+}

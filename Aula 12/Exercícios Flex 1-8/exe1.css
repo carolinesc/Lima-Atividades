@@ -1,0 +1,33 @@
+div.caixaum{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    width: 785px;
+    padding: 50px;
+    border: 4px outset rgb(255, 255, 255);
+    text-align: center;
+    text-indent: 1.25cm;
+    color: white;
+
+}
+
+div.caixaumm{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    padding: 200px;
+    border: 4px dotted rgb(255, 255, 255);
+    text-align: center;
+    text-indent: 1.25cm;
+    padding-top: 40px;
+    height: 220px;
+    color: white;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    box-sizing: cover;
+
+}
+#verde{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

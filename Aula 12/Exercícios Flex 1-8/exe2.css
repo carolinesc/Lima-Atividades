@@ -1,0 +1,35 @@
+div.caixaum{
+    background-color: pink;
+    width: 450px;
+    padding: 60px;
+    border: 15px double palevioletred;
+    text-align: justify;
+    text-indent: 1.25cm;
+    bottom: -48px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 45px;
+}
+body{
+    background-color: palevioletred;
+    box-sizing:cover;
+}
+img.{
+    width: 40%;
+
+}
+.ti{
+    text-transform: uppercase;
+    color: papayawhip;
+
+}
+#verde{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+#rosa{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}

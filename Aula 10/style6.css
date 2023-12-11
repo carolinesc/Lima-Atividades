@@ -1,0 +1,15 @@
+
+p { font-size: 12pt }
+p::first-line {color: rgb(21, 81, 133); font-variant: small-caps;}
+
+h1::before {content: url(imagens/cream.jfif);}
+h1::after {content: url(imagens/cream.jfif);}
+
+p::selection { color: rgb(0, 0, 0); background: rgb(217, 190, 255);}
+
+div {
+    background-image: url("botao.gif");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+

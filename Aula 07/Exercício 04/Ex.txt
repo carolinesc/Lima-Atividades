@@ -1,0 +1,131 @@
+<html>
+
+<head>
+Exercício 4
+<hr>
+</head>
+
+<body>
+
+<title>Tabela</title>
+
+</body>
+
+<center><table border="8"></center>
+
+<caption><b>My favs</b></caption>
+
+
+<tr><!--primeira linha da tabela-->
+<th>Favoritos</th>
+<th>Não Favoritos</th>
+
+<tr><!--segunda linha da tabela-->
+<th> <p> Praia </p>
+<img src= "beach fav/beachhh.jpg"alt="image" height="600" widht=500>
+<ol type="1">
+<li> Incrível
+<li> Acalmante
+<li> Refrescante
+</ol> </th>
+
+
+<th> <p> Abacate </p>
+<img src="avocado not fav/avocado.webp"alt="image" height="600" widht=500>
+<ol type="1">
+<li> Gosto estranho
+<li> Cheiro enjoativo
+<li> Textura desagradável
+</ol> </th>
+</tr>
+
+
+<tr><!--terceira linha da tabela-->
+<th> <p> Morangos </p>
+<img src= "morango/morango.jpg"alt="image" height="600" widht=500>
+<ol type="1">
+<li> Gosto doce, mas também azedo
+<li> Gelado e saboroso
+<li> Refrescante
+</ol> </th>
+
+
+<th> <p> Atum </p>
+<img src="atum not fav/atum.jpg"alt="image" height="600" widht=500>
+<ol type="1">
+<li> Cheiro horrível
+<li> Gosto ruim
+<li> É peixe
+</ol> </th>
+</tr>
+
+
+<tr><!--quarta linha da tabela-->
+<th> <p> Dançar </p>
+<img src= "dance fav/dance.jpg"alt="image" height="600" widht=500>
+<ol type="1">
+<li> Acalma a mente
+<li> Melhora disposição
+<li> Melhora humor
+</ol> </th>
+
+
+<th> <p> Frio </p>
+<img src= "cold not fav/cold.jpg"alt="image" height="600" widht=500>
+<ol type="1">
+<li> Não posso fazer algumas coisas
+<li> Ter que usar muita roupa
+<li> Sentir frio o tempo todo
+</ol> </th>
+</tr>
+
+
+<tr><!--quinta linha da tabela-->
+<th> <p> Escutar música </p>
+<img src= "musica/musica.jpg"alt="image" height="600" widht=500>
+<ol type="1">
+<li> Me acalma
+<li> Melhora vocabulário
+<li> Sinto emoções diferentes
+</ol> </th>
+
+
+<th> <p> Aranha </p>
+<img src= "aranha/aranha.jfif"alt="image" height="600" widht=500>
+<ol type="1">
+<li> Tenho traumas
+<li> Tenho alergia
+<li> Tenho medo
+</ol> </th>
+</tr>
+
+
+<tr><!--sexta linha da tabela-->
+<th> <p> Sol </p>
+<img src= "sun fav/sun.jpg"alt="image" height="600" widht=500>
+<ol type="1">
+<li> Pegar bronzeado
+<li> Confortável
+<li> Iluminação indescritível
+</ol> </th>
+
+
+<th> <p> Chá </p>
+<img src= "tea not fav/tea.jpg"alt="image" height="600" widht=500>
+<ol type="1">
+<li> Muito quente
+<li> Sabor duvidoso
+<li> Cheiro de plástico
+</ol> </th>
+</tr>
+
+
+</body>
+
+</html>
+
+
+
+
+
+

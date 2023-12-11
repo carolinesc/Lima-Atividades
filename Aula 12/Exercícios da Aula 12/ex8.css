@@ -1,0 +1,22 @@
+.caixinha{
+    border: 1px solid black;
+
+}
+.formulario{
+    text-align: center;
+    position: relative;
+}
+#button{
+    background-color: palevioletred;
+    color: white;
+}
+#button{
+    border-radius: 15px;
+}
+#button1{
+    background-color: plum;
+    color: white;
+}
+#button1{
+    border-radius: 15px;
+}

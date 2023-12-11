@@ -1,0 +1,8 @@
+#cabecalho {
+    text-align:center;
+    color: rgb(80, 128, 159);
+    background-size: 50% 50%;}
+body{
+    background-image: url("imagens/praia.webp");
+    background-size: cover;
+}
